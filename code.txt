@@ -1,0 +1,345 @@
+<html>
+<head>
+   <title>inspiring</title> 
+    <style>
+        body{
+            background-image: url("images/curls.png");
+        }
+         h1{
+    background-image:url("images/curls.png");
+        font-family: cursive;
+        color:white;
+    
+    
+    }
+       #main-heading{
+           font-family: cursive;
+        color:white; 
+           background-image: none;
+        }
+   
+    div{
+            width:550px;
+            height:600px;
+            background-image:url("images/memphis-colorful.png");
+            margin:30px auto;
+            border-left: 10px solid Grey;
+         border-right: 10px solid Grey;
+        
+       
+        border-radius:5%;
+    margin-left:20px;
+           
+            float:left;
+        padding:5px;
+        }
+    img{
+            width:400px;
+            height:400px;
+            border:5px black double;
+        border-radius:50%;
+        }
+         h2{
+            font-family:monospace;
+            color:white;
+            font-size: 40px;
+           background-image:url("images/curls.png"); 
+        }
+        h1{
+            font-family: cursive;
+
+        }
+        #a1{
+            
+            width:700px;
+            height:600px;
+            background-image:url("images/memphis-colorful.png");
+            border:none;
+            float:left;
+            overflow:scroll;
+            
+            
+            
+        }
+        /* width */
+#a1::-webkit-scrollbar {
+    width: 5px;
+    height:0px;
+}
+
+/* Track */
+#a1::-webkit-scrollbar-track {
+    box-shadow: none;
+    background-image: url(images/memphis-colorful.png);
+    border-radius: 10px;
+    max-height: 10px;
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: Grey; 
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #b30000; 
+}
+        p{
+            font-size: 30px;
+            font-family:cursive;
+            margin-left:20px;
+            font-weight: bold;
+            line-height: 1.5em;
+            width: 90%;
+        }
+         a{
+             font-family:cursive;
+             text-decoration: none;
+            background-image:url(images/memphis-colorful.png);
+            border:grey 2px solid;
+             border-radius:10%;
+             padding:15px;
+             margin-left:20px;
+             color:black;
+             width:30px;
+        }
+        a:hover{
+                border:white 2px solid;
+            color:white;
+            background-image:url(images/curls.png);
+            padding:15px;
+            transition: all .8s;
+        }
+        </style>  
+</head>
+<body>
+   <marquee> <h1 align="center" id="main-heading">PRESIDENTS OF INDIA</h1></marquee>
+    <center>
+    <div><h1>First President of India</h1>
+        
+    <img src="images/Dr-Rajendra-Prasad.jpg"> 
+        
+    <h2>Dr.Rajendra Prasad</h2></div>
+        <div id="a1"><h1>Biography</h1>
+        <p>Rajendra Prasad (On 3 December 1884-28 February 1963) was the first President of India, in office from 1950 to 1962.An Indian political leader, and lawyer by training, Prasad joined the Indian National Congress during the Indian Independence Movement and became a major leader from the region of Bihar. A suppoter of Mahatma Gandhi, prasad was imprisoned by British authorities during the Salt Satygraha of 1931 and the Quit India  movement of 1942. Prasad served one term as President of the Indian National Congress from 1934 to 1935. After the 1946 elections, Prasad served as Minister of Food and Agriculture in the central government. Upon independence in 1947, Prasad was elected as President of the Constituent Assembly of India, which prepared the Constitution of India and served as its provisional parliament.
+When India became a Republic in 1950, Prasad was elected its first President by the Constituent Assembly. Following the general election of 1951, he was elected President by the electoral college of the first Parliament of India and its state legislatures. As President, Prasad established a tradition of non-partisanship and independence for the office-bearer, and retired from Congress party politics. Although a ceremonial head of state, Prasad encouraged the development of education in India and advised the Nehru government on several occasions. In 1957, Prasad was re-elected to the presidency, becoming the only president to serve two full terms.</p>
+        
+        
+        </div>
+   <div><h1>Second President Of India</h1>
+        <img src="images/RadhaKrishnan.jpg">
+        <h2>Dr. RadthaKrishnan</h2></div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Sarvepalli Radhakrishnan (5 September 1888 - 17 Apirl 1975) was an India philosopher and statesman who was the first Vice President of India(1952-1962) and the second president of India from 1962 to 1967.One of India's most distinguished twentieth-century scholars of comparative religion and philosophy,[2][web 2] his academic appointments included professor of Philosophy at the University of Mysore (1918-1921), the King George V Chair of Mental and Moral Science at the University of Calcutta (1921–1932) and Spalding Professor of Eastern Religion and Ethics at University of Oxford (1936–1952).
+
+His philosophy was grounded in Advaita Vedanta, reinterpreting this tradition for a contemporary understanding.[web 2] He defended Hinduism against "uninformed Western criticism",[3] contributing to the formation of contemporary Hindu identity.[4] He has been influential in shaping the understanding of Hinduism, in both India and the west, and earned a reputation as a bridge-builder between India and the West.[5]
+
+Radhakrishnan was awarded several high awards during his life, including a knighthood in 1931, the Bharat Ratna, the highest civilian award in India, in 1954, and honorary membership of the British Royal Order of Merit in 1963. Radhakrishnan believed that "teachers should be the best minds in the country". Since 1962, his birthday is being celebrated in India as Teachers' Day on 5 September.</p>
+        
+        </div>
+        <div><h1>Third President Of India</h1>
+        <img src="images/third%20president.jpg">
+        <h2>Dr.Zakir Husain</h2>
+            </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Zakir Husain Khan (8 February 1897 – 3 May 1969) was the third President of India, from 13 May 1967 until his death on 3 May 1969. An educationist and intellectual, Husain was the country's first Muslim president, and also the first to die in office.
+
+He previously served as Governor of Bihar from 1957 to 1962 and as Vice President of India from 1962 to 1967. He was also the co-founder of Jamia Milia Islamia, serving as its Vice Chancellor from 1928. Under Husain, Jamia became closely associated with the Indian freedom movement. He was awarded the Bharat Ratna, India's highest civilian honour, in 1963.Husain was born in Hyderabad, Telangana, into a Pashtun family of the Afridi tribe,[2] which came to be more closely associated with Kaimganj in Farrukhabad district, Uttar Pradesh, and education and academia.[1][3][4] After Husain was born, his family migrated from Hyderabad to Kaimganj, where he grew up. He was the second of seven sons: the elder brother of fellow educationist Yousuf Husain. Husain's family would remain active in public life: his grandson Salman Khurshid, a Congress politician, is the former Foreign Minister of India, and his nephew was the noted academic Masud Husain.[5] His brother Mahmud Husain joined the Pakistan Movement and served as Education Minister, while his nephew Anwar Husain was director of Pakistan Television. His relation Rahimuddin Khan served as Chairman Joint Chiefs of Staff Committee of the Pakistan Army and as provincial governor.[6]
+
+Husain's father, Fida Husain Khan, died when he was ten years old; his mother died in 1911 when he was fourteen. Husain's early primary education was completed in Hyderabad,[7] He completed High school from Islamia High School, Etawah, and was then educated at the Muhammadan Anglo-Oriental College, now Aligarh Muslim University, where he was a prominent student leader.[8] He received his doctorate in economics from the University of Berlin in 1926.[9] In 1915, at the age of 18, he married Shah Jahan Begum and had two daughters, Sayeeda Khan and Safia Rahman.</p>
+        
+        </div>
+        <div><h1>Fourth President Of India</h1>
+        <img src="images/Varahagiri_Venkata_Giri.jpg">
+        <h2>Dr.Varahagiri Venkata Giri</h2>
+             </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Varahagiri Venkata Giri About this sound pronunciation (help·info) (10 August 1894 – 24 June 1980), commonly known as V. V. Giri, was the fourth President of India from 24 August 1969 to 24 August 1974.
+
+As President, Giri was the only person to be elected as an independent candidate.[3] He was succeeded by Fakhruddin Ali Ahmed as President in 1974.[4] After the end of his full term, Giri was honoured by the Government of India with the Bharat Ratna in 1975. Giri died on 24 June 1980. His great grandson V. Giri Shankar is an Advocate of the Madras High Court, Chennai.Giri was born in Berhampur Odisha to a Telugu-speaking family. His father, V. V. Jogayya Pantulu, was a successful lawyer and political activist of the Indian National Congress.[5] Giri's mother Subhadramma was active in the national movement in Berhampur during the Non Cooperation and Civil Disobedience Movements and was arrested for leading a strike for prohibition during the Civil Disobedience Movement.[6]
+
+Giri was married to Saraswati Bai and the couple had 14 children.[7]
+
+Giri completed his initial education at the Khallikote College in Berhampur.[8] In 1913 he went to Ireland to study law which he did at University College Dublin and the Honourable Society of King's Inns, Dublin between 1913–1916.[9] Giri was one among the first crop of thirteen Indian students who sat the obligatory year long course at UCD in 1914–15. This was a requirement for being called to the Irish Bar through study at the King's Inns. In total, 50 Indian students studied at UCD between 1914 and 1917.[10]
+
+Giri and a fellow law student also enrolled to study on the full bachelor of arts course in UCD. Giri studied English, where he was lectured by Thomas MacDonagh, and Political Economy. His lecturer in political economy was the reformer and co-operativist Thomas A. Finlay SJ.
+
+During the First World War, Giri travelled from Dublin to London and met with Mahatma Gandhi.[10] Gandhi wanted for Giri to join the Imperial war effort as a Red Cross Volunteer. Giri initially acceded to Gandhi's request but later regretted his decision. According to one of Giri's biographers, "Gandhiji with his characteristic magnanimity relieved Giri of the obligation to join the Red Cross and did not breathe a word about it to anyone.”[11]
+
+Giri was active in both Indian and Irish politics during his studies. Along with fellow Indian students he produced a pamphlet documenting the abuse of Indians in South Africa. The pamphlet was intercepted by Indian Political Intelligence and resulted in increased police scrutiny of Giri and his fellow students in Dublin.[10] Meanwhile, anonymous articles were written by Indian students for the newspaper of the Irish Volunteers and in The National Student, a UCD student magazine.[12]
+
+He was suspected of association with prominent ring leaders in the 1916 Rising including James Connolly, PH Pearse and the young Éamon de Valera.[13][14][15] Giri was called to the Irish Bar on 21 June 1916 but he did not complete his studies for BA in UCD.[12] Indian students were subjected to police raids following the 1916 Rising and Giri recounts how he was served with one month's notice to leave Ireland on 1 June 1916.[16][17]</p></div>
+       
+         <div><h1>Fifth President Of India</h1>
+        <img src="images/fifth%20president.jpg">
+            <h2>Dr.Fakhruddin Ali Ahmed</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Fakhruddin Ali Ahmed (13 May 1905 – 11 February 1977) was the fifth President of India from 1974 to 1977 and also the 2nd President of India to die in office.
+         Sixth President Of India.Fakhruddin Ali Ahmed was born on 13 May 1905 at the Hauz Qazi area of Old Delhi, India.[2] His father, Col. Zalnur Ali Ahmed, was the first Assamese person and the first person from northeast India to have an M.D. (Doctor of Medicine) degree.[3] His mother was a daughter of the Nawab of Loharu.[4] Ahmed's grandfather, Khaliluddin Ali Ahmed, was from Kacharighat near Golaghat, Assam, and hailed from a well-known Assamese Muslim family.He met Jawaharlal Nehru in England in 1925. He joined the Indian National Congress and actively participated in the Indian freedom movement. In 1942 he was arrested in the Quit India movement and sentenced to 3 1/2 years' imprisonment.[2] He was a member of the Assam Pradesh Congress Committee from 1936 and of AICC from 1947 to 74, and remained the Minister of Finance, Revenue and labour in the 1938 Gopinath Bordoloi Ministry.
+
+After Independence he was elected to the Rajya Sabha (1952–1953) and thereafter became Advocate-General of the Government of Assam. He was elected on Congress ticket to the Assam Legislative Assembly on two terms (1957–1962) and (1962–1967) from Jania constituency.
+
+Subsequently, he was elected to the Lok Sabha from the Barpeta constituency, Assam in 1967 and again in 1971. In the Central Cabinet he was given important portfolios relating to Food and Agriculture, Cooperation, Education, Industrial Development and Company Laws.He was awarded an honorary doctorate by the University of Pristina, in Kosovo, in 1975, during his visit to Yugoslavia.
+
+He was elected President of the Assam Football Association and the Assam Cricket Association for several terms; he was also the Vice-President of the Assam Sports Council.
+
+In April 1967, he was elected President of the All India Cricket Association. He was a member of the Delhi Golf Club and the Delhi Gymkhana Club from 1961. In 1942 he was arrested in the Quit India movement and sentenced to 3 1/2 years' imprisonment.[2] He was a member of the Assam Pradesh Congress Committee from 1936 and of AICC from 1947 to 74, and remained the Minister of Finance, Revenue and labour in the 1938 Gopinath Bordoloi Ministry and he is the first president to establish the industrial act
+
+In his honour a medical college Fakhruddin Ali Ahmed Medical College has been named after him at Barpeta Assam.</p></div>
+        <div><h1>Sixth President Of India</h1>
+        <img src="images/sixth%20prseidrent.jpg">
+            <h2>Dr.Neelam Sanjiva Reddy</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Neelam Sanjiva Reddy About this sound pronunciation (help·info) (19 May 1913 – 1 June 1996) was the sixth President of India, serving from 1977 to 1982. Beginning a long political career with the Indian National Congress party in the Indian independence movement, he went on to hold several key offices in independent India—as the first Chief Minister of Andhra Pradesh, a two-time Speaker of the Lok Sabha and a Union Minister—before becoming the youngest-ever Indian president.[2]
+
+Born in present-day Anantapur district, Andhra Pradesh, Reddy completed his schooling at Adayar and joined the Government Arts College at Anantapur. He quit to become an Indian independence activist and was jailed for participating in the Quit India Movement. He was elected to the Madras Legislative Assembly in 1946 as a Congress party representative. Reddy became deputy chief minister of Andhra State in 1953 and the first Chief Minister of Andhra Pradesh in 1956. He was a union cabinet minister under Prime Ministers Lal Bahadur Shastri and Indira Gandhi from 1964 to 1967 and Lok Sabha Speaker from 1967 to 1969. He later retired from active politics but returned in 1975, responding to Jayaprakash Narayan's call for "Total Revolution" against the Indira Gandhi government.
+
+Elected to Parliament in 1977 as a candidate of the Janata Party, Reddy was unanimously elected Speaker of the Sixth Lok Sabha and three months later was elected unopposed as President of India. As President, Reddy worked with Prime Ministers Morarji Desai, Charan Singh and Indira Gandhi. Reddy was succeeded by Giani Zail Singh in 1982 and he retired to his farm in Anantapur. He died in 1996 and his samadhi is at Kalahalli near Bangalore. In 2013, the Government of Andhra Pradesh commemorated Reddy's birth centenary.</p></div>
+         <div><h1>Sventh President Of India</h1>
+        <img src="images/zail-singh-3%20seventh%20president.jpg">
+            <h2>Dr.Zail Singh</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>He was born in Sandhwan, Faridkot district on 5 May 1916 to Kishan Singh. He was a Sikh by religion, was given the title of Gyani, as he was educated and learned about Guru Granth Sahib at Shaheed Sikh Missionary College in Amritsar.Zail Singh was elected as a Congress Chief Minister of Punjab in 1972.[5] He arranged massive religious gatherings, started public functions with a traditional Sikh prayer, inaugurated a highway named after Guru Gobind Singh, and named a township after the Guru's son.[6] He created a lifelong pension scheme for the freedom fighters of the state. He repatriated the remains of Udham Singh from London, armaments and articles belonging to Guru Gobind Singh.In 1980, Zail Singh was elected to the 7th Lok Sabha, and appointed to join Indira Gandhi's cabinet as Minister of Home Affairs.In 1982 he was unanimously nominated to serve as the President. Nonetheless, some in the media felt that the President had been chosen for being an Indira loyalist rather than an eminent person. "If my leader had said I should pick up a broom and be a sweeper, I would have done that. She chose me to be President,"[7] Singh was quoted to have said after his election. He took the oath of office on 25 July 1982. He was the first Sikh to hold the office.
+
+He served beside Gandhi, and protocol dictated that he should be briefed every week by her on the affairs of the state. On 31 May 1984, The day before Operation Blue Star, he met with Gandhi for more than an hour, but she omitted even sharing a word about her plan.[8] Following the operation he was pressured to resign from his post by Sikhs. He decided against resignation fearing to aggravate the situation on advice from Yogi Bhajan. He was subsequently called before the Akal Takhat to apologize and explain his inaction at the desecration of the Harimandir Sahib and killing of innocent Sikhs. Indira Gandhi was assassinated on 31 October in the same year, and he appointed her elder son Rajiv Gandhi as Prime Minister</p></div>
+        <div><h1>Eight President Of India</h1>
+        <img src="images/r-venkataraman-eigth%20president.jpg">
+            <h2>Dr.R Venkataraman</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Ramaswamy Venkataraman (About this sound pronunciation (help·info), 4 December 1910 – 27 January 2009)[1][2] was an Indian lawyer, Indian independence activist and politician who served as a Union minister and as the eighth President of India.[3]
+
+Venkataraman was born in Rajamadam village in Tanjore district, Madras Presidency. He studied law and practised in the Madras High Court and the Supreme Court of India. In his young age, he was an activist of the Indian independence movement and participated in the Quit India Movement. He was appointed member of the Constituent Assembly and the provisional cabinet. He was elected to Lok Sabha four times and served as Union Finance Minister and Defence Minister. In 1984, he was elected the seventh Vice President of India and in 1987, he became the 8th President of India and served from 1987 to 1992. He also served as a State minister under K. Kamaraj and M. Bhaktavatsalam.Venkataraman was born in Rajamadam village near in Pattukottai, near Tanjore district in Tamil Nadu. He had his school education in Govt Boys Higher Secondary School, Pattukottai & Undergraduation in National College, Tiruchirappalli.
+
+Educated locally and in the city of Madras (now Chennai), Venkataraman obtained his master's degree in Economics from Loyola College, Madras. He later qualified in Law from the Law College, Madras. Venkataraman was enrolled in the Madras High Court in 1935 and in the Supreme Court in 1951.Law and trade activity led to Venkataraman's increasing association with politics. He was a member of constituent assembly that drafted India's constitution. In 1950 he was elected to free India's Provisional Parliament (1950–1952) and to the First Parliament (1952–1957). During his term of legislative activity, Venkataraman attended the 1952 Session of the Metal Trades Committee of International Labour Organisation as a workers' delegate. He was a member of the Indian Parliamentary Delegation to the Commonwealth Parliamentary Conference in New Zealand. Venkataraman was also Secretary to the Congress Parliamentary Party in 1953–1954.
+
+Although re-elected to Parliament in 1957, Venkataraman resigned his seat in the Lok Sabha to join the State Government of Madras as a Minister. There Shri Venkataraman held the portfolios of Industries, Labour, Cooperation, Power, Transport and Commercial Taxes from 1957 to 1967. During this time, he was also Leader of the Upper House, namely, the Madras Legislative Council.</p></div>
+        <div><h1>Ninth President Of India</h1>
+        <img src="images/Shankar_Dayal_Sharma_36%20ninth%20presi.jpg">
+            <h2>Dr.Shankar Dayal Sharma</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Shankar Dayal Sharma About this sound pronunciation (help·info) (19 August 1918 – 26 December 1999) was the ninth President of India, serving from 1992 to 1997. Prior to his presidency, Sharma had been the eighth Vice President of India, serving under R. Venkataraman. He was also Chief Minister (1952–1956) of Bhopal, and Cabinet Minister (1956–1967), holding the portfolios of Education, Law, Public Works, Industry and Commerce, National Resources and Separate Revenue. He was the President of the Indian National Congress in 1972–1974 and returned to the government as Union Minister for Communications from 1974 to 1977.
+
+The International Bar Association presented Sharma with the 'Living Legends of Law Award of Recognition' for his outstanding contribution to the legal profession internationally and for commitment to the rule of law.During the 1940s he was involved in the struggle for Indian independence from the British, and joined the Indian National Congress, a party which he would remain loyal to for the rest of his life. After India's independence, the Nawab of Bhopal expressed his wish to retain the Bhopal princely state as a separate unit. Sharma led public agitations against the Nawab in December 1948, leading to his arrest. On 23 January 1949, Sharma was sentenced to eight months imprisonment for violating restrictions on public meetings. Under public pressure, the Nawab later released him, and signed the agreement for merger with the Indian Union on 30 April 1949.[7] In 1952, Sharma became the chief minister of the Bhopal state and was the youngest chief minister then.He served in that position until the state reorganization of 1956, when Bhopal state merged with several other states to form the state of Madhya Pradesh.Sharma served as Vice-President until 1992, when he was elected President. He received 66% of the votes in the electoral college, defeating George Gilbert Swell. During his last year as President, it was his responsibility to swear in three prime ministers. He didn't run for a second term as President.Dr. Shankar Dayal Sharma Gold Medal is awarded in all prestigious Indian universities. This award was constituted, in year 1994, by endowments received from Dr. Shankar Dayal Sharma. This medal is awarded to a graduating student adjudged to be the best in terms of general proficiency including character, conduct and excellence in academic performance, extra-curricular activities and social service.
+
+Sharma was born in Bhopal, then the capital of the princely state of Bhopal.</p></div>
+        <div><h1>Tenth President Of India</h1>
+        <img src="images/k%20narayan%2010th%20president.jpg">
+            <h2>Dr.K.R.Narayan</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Kocheril Raman Narayanan (About this sound listen (help·info); 4 February 1921 – 9 November 2005) was the tenth President of India.
+
+Born in Perumthanam, Uzhavoor village, in the princely state of Travancore (present day Kottayam district, Kerala), and after a brief stint with journalism and then studying political science at the London School of Economics with the assistance of a scholarship, Narayanan began his career in India as a member of the Indian Foreign Service in the Nehru administration. He served as ambassador to Japan, United Kingdom, Thailand, Turkey, People's Republic of China and United States of America and was referred to by Nehru as "the best diplomat of the country".[1] He entered politics at Indira Gandhi's request and won three successive general elections to the Lok Sabha and served as a Minister of State in the Union Cabinet under former Prime Minister Rajiv Gandhi. Elected as the ninth Vice President in 1992, Narayanan went on to become President in 1997. He was the first member of the Dalit community to hold the post, and the only one until Ram Nath Kovind was elected in 2017.[2]
+
+Narayanan is regarded as an independent and assertive President who set several precedents and enlarged the scope of the highest constitutional office. He described himself as a "working President" who worked "within the four corners of the Constitution"; something midway between an "executive President" who has direct power and a "rubber-stamp President" who endorses government decisions without question or deliberation.[3] He used his discretionary powers as a President and deviated from convention and precedent in many situations, including – but not limited to – the appointment of the Prime Minister in a hung Parliament, in dismissing a state government and imposing President's rule there at the suggestion of the Union Cabinet, and during the Kargil conflict. He presided over the golden jubilee celebrations of Indian independence and in the country's general election of 1998, he became the first Indian President to vote when in office, setting another new precedent.K. R. Narayanan was elected to the Presidency of India[14] (17 July 1997) with 95% of the votes in the electoral college, as a result of the Presidential poll on 14 July. This is the only Presidential election to have been held with a minority government holding power at the centre. T. N. Seshan was the sole opposing candidate, and all major parties save the Shiv Sena supported his candidature.,[15] while Seshan alleged that Narayanan had been elected solely for being a Dalit.
+
+He was sworn in as the President of India (25 July 1997) by Chief Justice J. S. Verma in the Central Hall of Parliament. In his inaugural address,[16] he said:
+
+That the nation has found a consensus for its highest office in some one who has sprung from the grass-roots of our society and grown up in the dust and heat of this sacred land is symbolic of the fact that the concerns of the common man have now moved to the centre stage of our social and political life. It is this larger significance of my election rather than any personal sense of honour that makes me rejoice on this occasion.</p></div>
+        <div><h1>Eleventh President Of India</h1>
+        <img src="images/230px-A._P._J._Abdul_Kalam_in_2008%2011th%20president.jpg">
+            <h2>Dr.A.P.J. Abdul Kalam</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Avul Pakir Jainulabdeen Abdul Kalam better known as A. P. J. Abdul Kalam (/'æbd?l k?'l??m/ (About this sound listen); 15 October 1931 – 27 July 2015), was the 11th President of India from 2002 to 2007. A career scientist turned statesman, Kalam was born and raised in Rameswaram, Tamil Nadu, and studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts.[1] He thus came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology.[2][3][4] He also played a pivotal organisational, technical, and political role in India's Pokhran-II nuclear tests in 1998, the first since the original nuclear test by India in 1974.[5]
+
+Kalam was elected as the 11th President of India in 2002 with the support of both the ruling Bharatiya Janata Party and the then-opposition Indian National Congress. Widely referred to as the "People's President,"[6] he returned to his civilian life of education, writing and public service after a single term. He was a recipient of several prestigious awards, including the Bharat Ratna, India's highest civilian honour.
+
+While delivering a lecture at the Indian Institute of Management Shillong, Kalam collapsed and died from an apparent cardiac arrest on 27 July 2015, aged 83.[7] Thousands including national-level dignitaries attended the funeral ceremony held in his hometown of Rameshwaram, where he was buried with full state honours.After graduating from the Madras Institute of Technology in 1960, Kalam joined the Aeronautical Development Establishment of the Defence Research and Development Organisation (by Press Information Bureau, Government of India) as a scientist after becoming a member of the Defence Research & Development Service (DRDS). He started his career by designing a small hovercraft, but remained unconvinced by his choice of a job at DRDO.[26] Kalam was also part of the INCOSPAR committee working under Vikram Sarabhai, the renowned space scientist.[13] In 1969, Kalam was transferred to the Indian Space Research Organisation (ISRO) where he was the project director of India's first Satellite Launch Vehicle (SLV-III) which successfully deployed the Rohini satellite in near-earth orbit in July 1980; Kalam had first started work on an expandable rocket project independently at DRDO in 1965.[1] In 1969, Kalam received the government's approval and expanded the programme to include more engineers.[25]
+
+
+Kalam addresses engineering students at IIT Guwahati
+In 1963 to 1964, he visited NASA's Langley Research Center in Hampton, Virginia; Goddard Space Flight Center in Greenbelt, Maryland; and Wallops Flight Facility.[11][27] Between the 1970s and 1990s, Kalam made an effort to develop the Polar Satellite Launch Vehicle (PSLV) and SLV-III projects, both of which proved to be successful.Kalam served as the 11th President of India, succeeding K. R. Narayanan. He won the 2002 presidential election with an electoral vote of 922,884, surpassing the 107,366 votes won by Lakshmi Sahgal. His term lasted from 25 July 2002 to 25 July 2007.[38]
+
+On 10 June 2002, the National Democratic Alliance (NDA) which was in power at the time, expressed that they would nominate Kalam for the post of President,[39][40] and both the Samajwadi Party and the Nationalist Congress Party backed his candidacy.[41][42] After the Samajwadi Party announced its support for Kalam, Narayanan chose not to seek a second term in office, leaving the field clear.[43] Kalam said of the announcement of his candidature:
+
+I am really overwhelmed. Everywhere both in Internet and in other media, I have been asked for a message. I was thinking what message I can give to the people of the country at this juncture.[44]
+
+On 18 June, Kalam filed his nomination papers in the Indian Parliament, accompanied by Vajpayee and his senior Cabinet colleagues.[45]
+
+
+Kalam along with Vladimir Putin and Manmohan Singh during his presidency
+The polling for the presidential election began on 15 July 2002 in Parliament and the state assemblies, with the media claiming that the election was a one-sided affair and Kalam's victory was a foregone conclusion; the count was held on 18 July.[46] Kalam became the 11th president of the Republic of India in an easy victory,[47] and moved into the Rashtrapati Bhavan after he was sworn in on 25 July.[48] Kalam was the third President of India to have been honoured with a Bharat Ratna, India's highest civilian honour, before becoming the President. Dr Sarvepalli Radhakrishnan (1954) and Dr Zakir Hussain (1963) were the earlier recipients of Bharat Ratna who later became the President of India.[49] He was also the first scientist and the first bachelor to occupy Rashtrapati Bhawan.</p></div>
+        <div><h1>Twelfth President Of India</h1>
+        <img src="images/Pratibha_Patil_2012-02-27%2012th.jpg">
+            <h2>Partibha Patil</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Pratibha Devisingh Patil (About this sound pronunciation (help·info)) (born 19 December 1934) is an Indian politician who served as the 12th President of India from 2007 to 2012. A member of the Indian National Congress, Patil is the only woman to hold the office.[1] She previously served as the Governor of Rajasthan from 2004 to 2007.Pratibha Devisingh Patil is the daughter of Narayan Rao Patil.[2] She was born on 19 December 1934 in the village of Nadgaon, in the Jalgaon district of Maharashtra, India. She was educated initially at R. R. Vidyalaya, Jalgaon, and subsequently was awarded a master's degree in Political Science and Economics by Mooljee Jetha College, Jalgaon (then under Pune University), and then a Bachelor of Law degree by Government Law College, Mumbai, affiliated to the University of Mumbai. Patil then began to practice law at the Jalgaon District Court, while also taking interest in social issues such as improving the conditions faced by Indian women.
+
+Patil married Devisingh Ransingh Shekhawat on 7 July 1965. The couple have a daughter and a son, Raosaheb Shekhawat, who is also a politicianPatil was announced as the United Progressive Alliance (UPA) candidate on 14 June 2007. She emerged as a compromise candidate after the left-wing parties of the alliance would not agree to the nomination of former Home Minister Shivraj Patil or Karan Singh.[8] Patil had been loyal to the INC and the Nehru-Gandhi family for decades and this was considered to be a significant factor in her selection by INC leader Sonia Gandhi, although Patil said that she had no intention of being a "rubber-stamp president".[5][9]
+
+In the same month that she was selected, Patil was accused of shielding her brother, G. N. Patil, in the 2005 Vishram Patil murder case. Vishram Patil had narrowly defeated G. N. Patil in an election to be the President of the District Congress Committee of Jalgaon and in September of that year had been murdered. Vishram Patil's widow eventually accused G. N. Patil of involvement in the crime and claimed that Pratibha Patil had influenced the criminal investigation and that the issue needed to be examined before presidential immunity became active.[10] Her accusations were rejected by the courts in 2009[11] but in 2015 G. N. Patil was charged. No reference to the alleged involvement of Pratibha Patil was made at this time.[12]
+
+Due to the presidential role being largely a figurehead position, the selection of candidate is often arranged by consensus among the various political parties and the candidate runs unopposed.[13] Contrary to the normal pattern of events, Patil faced a challenge in the election. The BBC described the situation as "the latest casualty of the country's increasingly partisan politics and [it] highlights what is widely seen as an acute crisis of leadership". It "degenerated into unseemly mud slinging between the ruling party and the opposition".[14] Her challenger was Bhairon Singh Shekhawat, the incumbent vice-president and a Bharatiya Janata Party (BJP) veteran. Shekhawat stood as an independent candidate and was supported by the National Democratic Alliance (NDA), a group led by the BJP,[15] although the Shiv Sena party, which was a part of NDA, supported her because of her Marathi origin.[16]
+
+Those opposed to Patil becoming president claimed that she lacked charisma, experience and ability. They also highlighted her time spent away from high-level politics and queried her belief in the supernatural, such as her claim to have received a message from Dada Lekhraj, a dead guru.[5][14][17] Various specific issues were raised, such as a comment made by her in 1975 that those suffering from hereditary diseases should be sterilised.[5] Another alleged that while a Member of Parliament for Amravati she diverted Rs 3.6 million from her MPLADS fund to a trust run by her husband. This was in violation of Government rules which barred MPs from providing funds to organisations run by their relatives.[18] The parliamentary affairs minister denied any wrongdoing on Patil's part, and noted that the funds utilized under MPLADS are audited by the Comptroller and Auditor General of India.[19]
+
+Patil won the election held on 19 July 2007. She garnered nearly two-thirds of the votes[20] and took office as India's first woman president on 25 July 2007.[1]</p></div>
+        <div><h1>thirteenth President Of India</h1>
+        <img src="images/mukherjee%2013th.jpg">
+            <h2>Dr.Pranab Mukherjee</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1>
+        <p>Pranab Kumar Mukherjee (born 11 December 1935) is an Indian politician who served as the 13th President of India from 2012 until 2017. In a political career spanning six decades, Mukherjee was a senior leader of the Indian National Congress and occupied several ministerial portfolios in the Government of India.[1] Prior to his election as President, Mukherjee was Union Finance Minister from 2009 to 2012, and the Congress party's top troubleshooter.
+
+Mukherjee got his break in politics in 1969 when Prime Minister Indira Gandhi helped him get elected to the Rajya Sabha, the upper house of Parliament, on a Congress ticket. Following a meteoric rise, he became one of Indira Gandhi's most trusted lieutenants, and a minister in her cabinet by 1973. During the controversial Internal Emergency of 1975–77, he was accused (like several other Congress leaders) of committing gross excesses. Mukherjee's service in a number of ministerial capacities culminated in his first stint as finance minister in 1982–84. Mukherjee was also Leader of the House in the Rajya Sabha from 1980 to 1985.
+
+Mukherjee was sidelined from the Congress during the premiership of Rajiv Gandhi, Indira's son. Mukherjee had viewed himself, and not the inexperienced Rajiv, as the rightful successor to Indira following her assassination in 1984. Mukherjee lost out in the ensuing power struggle. He formed his own party, the Rashtriya Samajwadi Congress, which merged with the Congress in 1989 after reaching a consensus with Rajiv Gandhi. After Rajiv Gandhi's assassination in 1991, Mukherjee's political career revived when Prime Minister P. V. Narasimha Rao appointed him Planning Commission head in 1991 and foreign minister in 1995. Following this, as elder statesman of the Congress, Mukherjee was the principal and architect of Sonia Gandhi's ascension to the party's presidency in 1998.
+
+When the Congress-led United Progressive Alliance (UPA) came into power in 2004, Mukherjee won a Lok Sabha (the popularly elected lower house of Parliament) seat for the first time. From then until his resignation in 2012, Mukherjee was practically number-two in Prime Minister Manmohan Singh's government. He held a number of key cabinet portfolios—Defence (2004–06), External Affairs (2006–09) and Finance (2009–12)—apart from heading several Groups of Ministers (GoMs) and being Leader of the House in the Lok Sabha. After securing the UPA's nomination for the country's presidency in July 2012, Mukherjee comfortably defeated P. A. Sangma in the race to Rashtrapati Bhavan, winning 70 percent of the electoral-college vote.
+
+In 2017, Mukherjee decided not to run for re-election and to retire from politics after leaving the presidency due to "health complications relating to old age". His term expired on 25 July 2017.[2][3][4] He was succeeded as President by Ram Nath Kovind.</p></div>
+        <div><h1>Fourtheenth President Of India</h1>
+        <img src="images/Ram-Nath-Kovind_380_Twitter-AIR%2014th%20president.jpg">
+            <h2>Dr.Ram Nath Kovind</h2>
+        </div>
+         <div id="a1"><h1>Biography</h1><p>Ram Nath Kovind (born 1 October 1945) is the 14th and current President of India, in office since 25 July 2017[1]. Previously he had served as the Governor of Bihar from 2015 to 2017[2][3] and was a Member of Parliament, Rajya Sabha from 1994 to 2006. Kovind was nominated as a presidential candidate by the ruling NDA coalition and won the 2017 presidential election, becoming the second Dalit to be elected to the post of President.[4]
+
+Before entering politics, he was a lawyer for 16 years and practiced in the Delhi High Court and the Supreme Court until 1993.Kovind was born on 1st October, 1945 in Paraukh village in the Kanpur Dehat district, Uttar Pradesh.[6][7] His father Maikulal was a landless Kori (a Dalit weaving community) who ran a small shop to support his family. He was the youngest of five brothers and two sisters. He was born in a mud hut, which eventually collapsed. He was only five when his mother died of burns when their thatched dwelling caught fire. Kovind later donated the land to the community.[8]
+
+After his elementary school education, he had to walk each day to Kanpur village, 8 km away, to attend junior school, as nobody in the village had a bicycle.[9] He holds a bachelor's degree in commerce and a LLB from DAV College affiliated with Kanpur University.After graduating in law from a Kanpur college, Kovind went to Delhi to prepare for the civil services examination. He passed this exam on his third attempt, but he did not join because he was selected for an allied service instead of IAS and thus started practicing law.[12]
+
+Kovind enrolled as an advocate in 1971 with the bar council of Delhi. He was Central Government Advocate in the Delhi High Court from year 1977 to year 1979. Between 1977 & 1978, he also served as the personal assistant of Prime Minister of India Morarji Desai.[13] In 1978, he became an advocate-on-record of the Supreme Court of India and served as a standing counsel for the Central Government in the Supreme Court of India from 1980 to 1993. He practiced in the Delhi High Court and Supreme Court until 1993. As an advocate,he provided free legal aid to weaker sections of society, women and the poor under the Free Legal Aid Society of New Delhi.</p></div>
+   
+    <a href="#">Home</a>
+        <a href="#">Gallery</a>
+        <a href="#">Contacts</a>
+        <a href="#">More</a>
+    </center>
+    <br clear="all">
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
